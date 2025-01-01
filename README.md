@@ -16,6 +16,9 @@ This is a simple React app that displays three products along with their origina
 You can view the live demo of this app [here](https://SQUADRON-LEADER.github.io/basic-react-app/).
 
 
+![Screenshot 2025-01-01 163041](https://github.com/user-attachments/assets/26f84238-c6d4-43c0-b05e-0d3d7c025422)
+
+
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
